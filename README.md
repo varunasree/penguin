@@ -29,7 +29,7 @@ Unsupervised learning project that groups penguins into clusters using only phys
 Python, pandas, scikit-learn, seaborn, matplotlib, Jupyter
 
 ## How to run
-git clone https://github.com/varunasree/penguin.ipynb in Jupyter after installing requirements.txt
+git clone https://github.com/varunasree/penguin in Jupyter after installing requirements.txt
 
 ## License
 MIT — see LICENSE file
